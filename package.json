@@ -1,0 +1,12 @@
+{
+  "id": "Spacer",
+  "name": "Spacer",
+  "version": "1.0.0",
+  "description": "add a spacer",
+  "main": "index.js",
+  "author": "Indy Koning",
+  "license": "MIT",
+  "config": {
+    "serviceURL": ""
+  }
+}
